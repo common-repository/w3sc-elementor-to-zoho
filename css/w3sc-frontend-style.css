@@ -1,0 +1,18 @@
+@charset "utf-8";
+
+/* W3SC Frontend CSS */
+
+#w3sc_msg {
+    color: green;
+    font-size: 15px;
+    font-weight: 500;
+    margin-top: 15px;
+}
+
+.fld-wid:focus {
+    background-color: #424242 !important;
+}
+
+#w3sc-crm-insert {
+    line-height: 10px;
+}
